@@ -1,0 +1,44 @@
+{
+    "allow_exit": true,
+    "cache_size": 1000,
+    "thread_timeout": 25,
+    "update_rate": 30,
+    "max_age": 1800,
+    
+    "popup": {
+        "width": 500,
+       
+        "header_fill": "#E4E1DC",
+        "nav_fill": "#002D5B",
+        "body_fill": "#ffffff",
+        
+        "nav_font": "Arial",
+        "nav_size": 9,
+        "nav_color": "#E4E1DC",
+        
+        "age_font": "Tahoma",
+        "age_size": 10,
+        "age_color": "#000000",
+        
+        "title_font": "Tahoma",
+        "title_size": 18,
+        "title_color": "#000000",
+        
+        "description_font": "Tahoma",
+        "description_size": 13,
+        "description_color": "#000000",
+        
+        "divider_color": "#002D5B",
+        
+        "footer_font": "Tahoma",
+        "footer_size": 10,
+        "footer_color": "#777777"
+	},
+
+	"feeds": [
+	    {
+		"title": "DDCC",
+		"url": "http://alrt4.me/feed.php?cust=davidsondavie&cat=7&items=3&age=15"
+	    }
+	]
+}
